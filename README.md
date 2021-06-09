@@ -1,5 +1,5 @@
 
-👋 Hey y'all, welcome to my GitHub page.
+👋 Hi y'all, welcome to my GitHub page. Feel free to look around and hangout.
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
